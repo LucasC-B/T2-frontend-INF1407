@@ -1,6 +1,7 @@
 # T2-frontend-INF1407
 
 Esse repositório representa o frontend do site Movie Tracker que foi inserido no heroku.
+Link: https://movietrackerfrontend-d3c14fcd8d55.herokuapp.com/
 
 # MOVIE TRACKER
 
